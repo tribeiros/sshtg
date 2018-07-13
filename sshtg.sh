@@ -10,7 +10,6 @@ if [[ ! $3 ]]; then
   exit
 fi
 
-
 # function to connect
 sshConnect(){
   for HOSTNAME in ${HOSTS} ; do

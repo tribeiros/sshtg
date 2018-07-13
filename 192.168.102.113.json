@@ -254,3 +254,67 @@
       ]
    }
 }
+{
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "message_id" : 103,
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "date" : 1531493253
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531502838,
+      "text" : "192.168.102.113:/home",
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "message_id" : 108,
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      }
+   }
+}
