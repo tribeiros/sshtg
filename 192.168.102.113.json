@@ -318,3 +318,35 @@
       }
    }
 }
+{
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "type" : "group"
+      },
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "date" : 1531518003,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 110,
+      "from" : {
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740
+      }
+   },
+   "ok" : true
+}
