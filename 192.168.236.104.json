@@ -1,0 +1,32 @@
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531436668,
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "text" : "192.168.236.104:/home have 33% space used",
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "title" : "grouptest",
+         "type" : "group"
+      },
+      "message_id" : 97
+   }
+}
