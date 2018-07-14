@@ -3,6 +3,10 @@ USERNAME=$1
 HOSTS=$2
 MOUNT=$3
 SCRIPT="df | grep $MOUNT | grep -o '[0-9]\{1,3\}%'"
+ALARM=40
+red='\033[1;31m'
+nc='\033[0m'
+green='\033[0;32m'
 
 # checking arguments
 if [[ ! $3 ]]; then
@@ -13,10 +17,20 @@ fi
 # function to connect
 sshConnect(){
   for HOSTNAME in ${HOSTS} ; do
-      return=`ssh -q -l ${USERNAME} ${HOSTNAME} ${SCRIPT}`
+      RETURN=`ssh -q -l ${USERNAME} ${HOSTNAME} ${SCRIPT} | grep -o '[0-9]\{1,3\}'`
   done
-  MSG="${HOSTS}:${MOUNT} have ${return} space used"
+
+  MSG="${HOSTS}:${MOUNT} have ${RETURN}% space used"
   echo $MSG
+
+  if [[ $RETURN -lt $ALARM ]]; then
+    FREE=`echo "100 - $RETURN" | bc -l`
+    echo "${HOSTS}:${MOUNT} have $FREE% free disk space"
+  else
+    FREE=`echo "100 - $RETURN" | bc -l`
+    echo "${HOSTS}:${MOUNT} have $FREE % free disk space"
+  fi
+
 }
 
 # Telegram vars

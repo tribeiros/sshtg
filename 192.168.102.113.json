@@ -350,3 +350,1699 @@
    },
    "ok" : true
 }
+{
+   "ok" : true,
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "message_id" : 111,
+      "date" : 1531521084,
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      },
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      }
+   }
+}
+{
+   "result" : {
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 421,
+      "date" : 1531543288,
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ]
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "text" : "192.168.102.113:/home have 523\n264\n0\n723\n20\n516\n032\n0\n2 space used",
+      "message_id" : 422,
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "date" : 1531543389
+   }
+}
+{
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "from" : {
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "date" : 1531543393,
+      "message_id" : 423,
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 424,
+      "date" : 1531543707,
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      },
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ]
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531543721,
+      "message_id" : 425,
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ]
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "from" : {
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740
+      },
+      "text" : "192.168.102.113:/home have 2 space used",
+      "message_id" : 426,
+      "date" : 1531543824,
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "type" : "group"
+      }
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531543846,
+      "message_id" : 427,
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      },
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ]
+   }
+}
+{
+   "result" : {
+      "message_id" : 428,
+      "date" : 1531543868,
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "type" : "group"
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531543893,
+      "from" : {
+         "is_bot" : true,
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot"
+      },
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192,
+         "all_members_are_administrators" : true
+      },
+      "message_id" : 429
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "message_id" : 430,
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "date" : 1531543942,
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "message_id" : 431,
+      "date" : 1531543971,
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740
+      },
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "result" : {
+      "chat" : {
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "title" : "grouptest"
+      },
+      "from" : {
+         "is_bot" : true,
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531543993,
+      "message_id" : 432
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "chat" : {
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group"
+      },
+      "date" : 1531544023,
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "message_id" : 433,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531544071,
+      "message_id" : 434,
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest"
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ]
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531544085,
+      "chat" : {
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group"
+      },
+      "from" : {
+         "is_bot" : true,
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "message_id" : 435
+   }
+}
+{
+   "result" : {
+      "date" : 1531544226,
+      "message_id" : 436,
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      },
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ]
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      },
+      "message_id" : 437,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest"
+      },
+      "date" : 1531544246,
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot"
+      },
+      "message_id" : 438,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "id" : -220750192,
+         "title" : "grouptest"
+      },
+      "date" : 1531544259,
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 439,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "id" : -220750192,
+         "title" : "grouptest"
+      },
+      "date" : 1531544271,
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ]
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "message_id" : 440,
+      "date" : 1531544312,
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "message_id" : 441,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "date" : 1531544332
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531544367,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 442,
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro"
+      }
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 443,
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "date" : 1531544391,
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "from" : {
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "message_id" : 444,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531544411
+   }
+}
+{
+   "result" : {
+      "date" : 1531544458,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 445,
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest"
+      },
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740,
+         "username" : "xtgxbot"
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 446,
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "date" : 1531544576,
+      "from" : {
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740
+      },
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 447,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192
+      },
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "date" : 1531544602,
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used"
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 448,
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "chat" : {
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "type" : "group"
+      },
+      "date" : 1531544635
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 449,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "date" : 1531544660,
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot"
+      }
+   }
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "message_id" : 450,
+      "date" : 1531544679,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "date" : 1531544728,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "message_id" : 451
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "text" : "192.168.102.113:/home have % space used",
+      "from" : {
+         "is_bot" : true,
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "message_id" : 452,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "date" : 1531544760
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192
+      },
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot"
+      },
+      "message_id" : 453,
+      "date" : 1531544775,
+      "text" : "192.168.102.113:/home have 2% space used"
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 454,
+      "from" : {
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot"
+      },
+      "date" : 1531544807,
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      }
+   }
+}
+{
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 455,
+      "date" : 1531544826,
+      "chat" : {
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group"
+      },
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ]
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot"
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "message_id" : 456,
+      "date" : 1531544856,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest"
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531544884,
+      "message_id" : 457,
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "chat" : {
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "title" : "grouptest"
+      }
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 458,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "id" : -220750192
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "date" : 1531544894,
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot"
+      }
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest"
+      },
+      "date" : 1531544916,
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 459,
+      "entities" : [
+         {
+            "length" : 15,
+            "type" : "url",
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ]
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "type" : "group"
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531544963,
+      "message_id" : 460,
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot"
+      }
+   }
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "date" : 1531544984,
+      "from" : {
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740
+      },
+      "chat" : {
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 461
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "date" : 1531545005,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 462,
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ]
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "message_id" : 463,
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "title" : "grouptest"
+      },
+      "date" : 1531545071
+   }
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "date" : 1531545184,
+      "message_id" : 464,
+      "chat" : {
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "message_id" : 465,
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "type" : "group",
+         "id" : -220750192
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531545227,
+      "from" : {
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740
+      },
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ]
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      },
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531545267,
+      "message_id" : 466
+   }
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "date" : 1531545291,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 467,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192
+      },
+      "from" : {
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "is_bot" : true
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "date" : 1531545320,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 468,
+      "from" : {
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "username" : "xtgxbot"
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      },
+      "date" : 1531545331,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot"
+      },
+      "message_id" : 469,
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ]
+   }
+}
+{
+   "result" : {
+      "message_id" : 470,
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot"
+      },
+      "date" : 1531545357,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group"
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "date" : 1531545380,
+      "from" : {
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "message_id" : 471,
+      "chat" : {
+         "all_members_are_administrators" : true,
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest"
+      },
+      "text" : "192.168.102.113:/home have 2% space used"
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "from" : {
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "date" : 1531545529,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "message_id" : 477
+   },
+   "ok" : true
+}

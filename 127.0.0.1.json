@@ -1,0 +1,140 @@
+{
+   "result" : {
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      },
+      "entities" : [
+         {
+            "length" : 9,
+            "type" : "url",
+            "offset" : 0
+         }
+      ],
+      "message_id" : 472,
+      "text" : "127.0.0.1:/dev/shm have 2% space used",
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true,
+         "username" : "xtgxbot"
+      },
+      "date" : 1531545471
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "from" : {
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "is_bot" : true
+      },
+      "text" : "127.0.0.1:/run have 1\n1\n1% space used",
+      "entities" : [
+         {
+            "length" : 9,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "offset" : 10,
+            "type" : "bot_command",
+            "length" : 4
+         }
+      ],
+      "date" : 1531545486,
+      "message_id" : 473
+   }
+}
+{
+   "result" : {
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "text" : "127.0.0.1:/run/lock have 1% space used",
+      "date" : 1531545496,
+      "message_id" : 474,
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 9,
+            "offset" : 0
+         }
+      ],
+      "from" : {
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "is_bot" : true,
+         "first_name" : "Tiago Ribeiro"
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "message_id" : 475,
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "text" : "127.0.0.1:/ have 0\n1\n90\n2\n1\n0\n1% space used",
+      "entities" : [
+         {
+            "length" : 9,
+            "offset" : 0,
+            "type" : "url"
+         }
+      ],
+      "date" : 1531545514,
+      "chat" : {
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "type" : "group"
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531545523,
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 9
+         }
+      ],
+      "message_id" : 476,
+      "text" : "127.0.0.1:/run/lock have 1% space used",
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true
+      }
+   }
+}
