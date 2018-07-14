@@ -2334,3 +2334,195 @@
    },
    "ok" : true
 }
+{
+   "ok" : true,
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740,
+         "username" : "xtgxbot"
+      },
+      "message_id" : 487,
+      "date" : 1531545942
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 488,
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "is_bot" : true
+      },
+      "date" : 1531545947,
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      }
+   }
+}
+{
+   "result" : {
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "chat" : {
+         "id" : -220750192,
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "message_id" : 489,
+      "date" : 1531545997,
+      "text" : "192.168.102.113:/home have 2% space used"
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "message_id" : 490,
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "id" : -220750192,
+         "all_members_are_administrators" : true
+      },
+      "from" : {
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "date" : 1531545999
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "message_id" : 491,
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "type" : "group"
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531546074
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 492,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "date" : 1531546158,
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ]
+   }
+}

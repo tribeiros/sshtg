@@ -2,11 +2,11 @@
 USERNAME=$1
 HOSTS=$2
 MOUNT=$3
-ALARM=$4
+ALARM=40
 SCRIPT="df | grep $MOUNT | grep -o '[0-9]\{1,3\}%'"
 
 # checking arguments
-if [[ ! $4 ]]; then
+if [[ ! $3 ]]; then
   echo "missing arguments,use - $0 user host mount percent"
   exit
 fi
@@ -28,7 +28,7 @@ sshAlarm(){
     echo "${HOSTS}:${MOUNT} have $FREE% free disk space"
   else
     FREE=`echo "100 - $RETURN" | bc -l`
-    echo "${HOSTS}:${MOUNT} have $FREE % free disk space - ALERT"
+    echo "${HOSTS}:${MOUNT} have $FREE% free disk space"
   fi
 }
 
