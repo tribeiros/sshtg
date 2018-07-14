@@ -2046,3 +2046,291 @@
    },
    "ok" : true
 }
+{
+   "result" : {
+      "chat" : {
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "date" : 1531545664,
+      "message_id" : 478,
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 479,
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740
+      },
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      },
+      "date" : 1531545701,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "offset" : 16,
+            "length" : 5,
+            "type" : "bot_command"
+         }
+      ]
+   }
+}
+{
+   "result" : {
+      "date" : 1531545705,
+      "from" : {
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "message_id" : 480,
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "title" : "grouptest",
+         "all_members_are_administrators" : true
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "date" : 1531545734,
+      "message_id" : 481,
+      "chat" : {
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ],
+      "message_id" : 482,
+      "text" : "192.168.102.113:/home have 2% space used",
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740
+      },
+      "date" : 1531545747,
+      "chat" : {
+         "type" : "group",
+         "title" : "grouptest",
+         "id" : -220750192,
+         "all_members_are_administrators" : true
+      }
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "message_id" : 483,
+      "date" : 1531545769,
+      "from" : {
+         "username" : "xtgxbot",
+         "is_bot" : true,
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "offset" : 0,
+            "length" : 15
+         },
+         {
+            "type" : "bot_command",
+            "length" : 5,
+            "offset" : 16
+         }
+      ],
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      }
+   },
+   "ok" : true
+}
+{
+   "ok" : true,
+   "result" : {
+      "message_id" : 484,
+      "date" : 1531545773,
+      "entities" : [
+         {
+            "offset" : 0,
+            "type" : "url",
+            "length" : 15
+         },
+         {
+            "length" : 5,
+            "offset" : 16,
+            "type" : "bot_command"
+         }
+      ],
+      "from" : {
+         "is_bot" : true,
+         "id" : 535199740,
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro"
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "chat" : {
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest",
+         "id" : -220750192
+      }
+   }
+}
+{
+   "result" : {
+      "from" : {
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro"
+      },
+      "chat" : {
+         "id" : -220750192,
+         "title" : "grouptest",
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "text" : "192.168.102.113:/home have 2% space used",
+      "entities" : [
+         {
+            "type" : "url",
+            "length" : 15,
+            "offset" : 0
+         },
+         {
+            "length" : 5,
+            "type" : "bot_command",
+            "offset" : 16
+         }
+      ],
+      "date" : 1531545785,
+      "message_id" : 485
+   },
+   "ok" : true
+}
+{
+   "result" : {
+      "from" : {
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "username" : "xtgxbot",
+         "id" : 535199740
+      },
+      "date" : 1531545790,
+      "chat" : {
+         "type" : "group",
+         "title" : "grouptest",
+         "all_members_are_administrators" : true,
+         "id" : -220750192
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "message_id" : 486,
+      "text" : "192.168.102.113:/home have 2% space used"
+   },
+   "ok" : true
+}
