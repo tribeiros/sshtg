@@ -30,3 +30,94 @@
       "message_id" : 97
    }
 }
+{
+   "ok" : true,
+   "result" : {
+      "chat" : {
+         "type" : "group",
+         "id" : -220750192,
+         "all_members_are_administrators" : true,
+         "title" : "grouptest"
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "type" : "bot_command",
+            "offset" : 16,
+            "length" : 5
+         }
+      ],
+      "date" : 1531546328,
+      "text" : "192.168.236.104:/home have 33% space used",
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "id" : 535199740,
+         "is_bot" : true
+      },
+      "message_id" : 493
+   }
+}
+{
+   "ok" : true,
+   "result" : {
+      "date" : 1531546369,
+      "from" : {
+         "username" : "xtgxbot",
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "id" : 535199740
+      },
+      "entities" : [
+         {
+            "length" : 15,
+            "offset" : 0,
+            "type" : "url"
+         }
+      ],
+      "chat" : {
+         "title" : "grouptest",
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true
+      },
+      "message_id" : 494,
+      "text" : "192.168.236.104:/ have 56\n0\n23\n33\n32\n48\n4\n25\n2\n47% space used"
+   }
+}
+{
+   "result" : {
+      "date" : 1531546387,
+      "chat" : {
+         "id" : -220750192,
+         "type" : "group",
+         "all_members_are_administrators" : true,
+         "title" : "grouptest"
+      },
+      "text" : "192.168.236.104:/home have 33% space used",
+      "message_id" : 495,
+      "from" : {
+         "id" : 535199740,
+         "first_name" : "Tiago Ribeiro",
+         "is_bot" : true,
+         "username" : "xtgxbot"
+      },
+      "entities" : [
+         {
+            "offset" : 0,
+            "length" : 15,
+            "type" : "url"
+         },
+         {
+            "offset" : 16,
+            "type" : "bot_command",
+            "length" : 5
+         }
+      ]
+   },
+   "ok" : true
+}

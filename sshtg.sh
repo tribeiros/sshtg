@@ -11,6 +11,13 @@ if [[ ! $3 ]]; then
   exit
 fi
 
+checkRoot(){
+  if [[ "$MOUNT" == "/" ]] ;then
+    echo "not / BYE"
+    exit
+  fi
+}
+
 # function to connect
 sshConnect(){
   for HOSTNAME in ${HOSTS} ; do
@@ -41,6 +48,7 @@ sshTg(){
 }
 
 # exec
+checkRoot
 sshConnect
 sshAlarm
 sshTg
