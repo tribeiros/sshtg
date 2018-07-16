@@ -42,7 +42,7 @@ sshAlarm(){
 # Telegram function
 sshTg(){
   URL=https://api.telegram.org/ #telegram uri
-  botToken=bot535199740:AAGhxdpQz5XDW8oSD8JYdpE0aRdXdUZwRrU #xtgxbot made with botfather
+  botToken=bot646348371:AAFkySfvz9zpLD52mmserFlhB2IJ-N_S1Cg #tgbash_bot made with botfather
   chatId=-220750192
   curl -s -X POST "${URL}${botToken}/sendMessage" -d "chat_id=${chatId}&text=${MSG}" | json_pp >> $HOSTS.json
 }
